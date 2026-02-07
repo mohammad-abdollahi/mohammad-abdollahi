@@ -18,7 +18,7 @@
 
 ### <img src="https://media.giphy.com/media/VhDsKeBIYbJDzLlsxE/giphy.gif" width="30"> SYSTEM_OVERVIEW
 
-I am a **Machine Learning Engineer** and Researcher with **6+ years** of experience in **NLP**, **Large Language Models (LLMs)**, and **MLOps**. Currently, I am pursuing a PhD at **York University** (Toronto, Canada) under the supervision of [Prof. Hadi Hemmati](https://scholar.google.ca/citations?user=TznXpSIAAAAJ&hl=en) **(Google)**.
+I am a **Machine Learning Engineer** and Researcher with **6+ years** of experience in **NLP**, **Large Language Models (LLMs)**, and **MLOps**. 
 
 * 🔭 **Current Focus:** LLM Reasoning, Agentic AI, and Autonomous Coding Agents in Software Engineering.
 * 💡 **Mission:** I thrive on the complexity of the unsolved. I am driven to architect solutions for problems that don't have answers yet, turning abstract theory into the next generation of autonomous reality.
