@@ -22,7 +22,7 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 
 * 🔭 **Current Focus:** LLM Reasoning, Agentic AI, and Autonomous Coding Agents in Software Engineering.
 * 💡 **Mission:** I thrive on the complexity of the unsolved. I am driven to architect solutions for problems that don't have answers yet, turning abstract theory into the next generation of autonomous reality.
-* [cite_start]🛠️ **Experience:** Previously engineered ML Engineer at **Arteria AI**, **Digikala**, and **Snappfood**.
+* 🛠️ **Experience:** Previously engineered ML Engineer at **Arteria AI**, **Digikala**, and **Snappfood**.
 
 ---
 
