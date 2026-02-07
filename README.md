@@ -16,7 +16,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VhDsKeBIYbJDzLlsxE/giphy.gif" width="30"> // SYSTEM_OVERVIEW
+### <img src="https://media.giphy.com/media/VhDsKeBIYbJDzLlsxE/giphy.gif" width="30"> SYSTEM_OVERVIEW
 
 I am a **Machine Learning Engineer** and Researcher with **6+ years** of experience in **NLP**, **Large Language Models (LLMs)**, and **MLOps**. Currently, I am pursuing a PhD at **York University** (Toronto, Canada) under the supervision of [Prof. Hadi Hemmati](https://scholar.google.ca/citations?user=TznXpSIAAAAJ&hl=en) **(Google)**.
 
@@ -26,11 +26,12 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> // INSTALLED_MODULES (Tech Stack)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> INSTALLED_MODULES (Tech Stack)
 
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -42,6 +43,8 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Caching-000000?style=flat-square&logo=cache&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-15B5B0?style=flat-square&logo=xgboost&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -57,11 +60,14 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
 
 **Data & Backend**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -70,7 +76,7 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 
 ---
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> // OUTPUT_DATA (Selected Publications)
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> OUTPUT_DATA (Selected Publications)
 
 | Title | Authors |
 | :--- | :--- |
@@ -85,7 +91,7 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### // GITHUB_METRICS
 
@@ -93,4 +99,4 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-abdollahi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-abdollahi&layout=compact&theme=radical"/>
 </a>
-</div>
+</div> -->
