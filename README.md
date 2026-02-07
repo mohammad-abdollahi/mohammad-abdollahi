@@ -44,7 +44,7 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM_Caching-000000?style=flat-square&logo=cache&logoColor=white" />
+<img src="https://img.shields.io/badge/LMCache-000000?style=flat-square&logo=cache&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-15B5B0?style=flat-square&logo=xgboost&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -73,6 +73,7 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)" />
 
 ---
 
