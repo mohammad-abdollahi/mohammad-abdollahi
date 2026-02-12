@@ -16,7 +16,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VhDsKeBIYbJDzLlsxE/giphy.gif" width="30"> SYSTEM_OVERVIEW
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQwNGNsYmx3a3Q2NGJ0ZWgzd2Rnc3lldzFxa3VxOGhkOWhxcnQxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzAu2U1tOafteBa0/giphy.gif" width="30"> SYSTEM_OVERVIEW
 
 I am a **Machine Learning Engineer** and Researcher with **6+ years** of experience in **NLP**, **Large Language Models (LLMs)**, and **MLOps**. 
 
@@ -92,7 +92,7 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQwNGNsYmx3a3Q2NGJ0ZWgzd2Rnc3lldzFxa3VxOGhkOWhxcnQxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzAu2U1tOafteBa0/giphy.gif" width="30"> SUPPORT_PROTOCOL
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajV2ZXFueWM3MmRtbWozcGtiN3p6dGxyM3RlNjl3OGNtZHBhcHR0ciZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3o6Zt3OhbsQ5VLPmBW/giphy.gif" width="30"> SUPPORT_PROTOCOL
 
 If you find my research or tools helpful, consider fueling my next session of late-night coding and paper writing.
 
