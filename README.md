@@ -92,6 +92,14 @@ I am a **Machine Learning Engineer** and Researcher with **6+ years** of experie
 
 ---
 
+### <img src="https://media.giphy.com/media/V9gX0G9t0hGfK/giphy.gif" width="30"> SUPPORT_PROTOCOL
+
+If you find my research or tools helpful, consider fueling my next session of late-night coding and paper writing.
+
+<a href="https://buymeacoffee.com/moham98" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
+</a>
+
 <!-- <div align="center">
 
 ### // GITHUB_METRICS
