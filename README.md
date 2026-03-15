@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,100:7000ff&height=280&section=header&text=Mohammad%20Abdollahi&fontSize=80&fontAlignY=35&desc=ML%20Engineer%20%7C%20PhD%20Candidate%20%7C%20Agentic%20AI&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,100:7000ff&height=280&section=header&text=Mohammad%20Abdollahi&fontSize=80&fontAlignY=35&desc=ML%20Engineer%20%7C%%7C%20Agentic%20AI&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" />
 
   <a href="https://www.linkedin.com/in/mohammad-abdollahii/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
