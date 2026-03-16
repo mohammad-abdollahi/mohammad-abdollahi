@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
   <a href="https://mohammad-abdollahi.github.io/">
-    <img src="https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=latex&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Homepage-00A0A0?style=for-the-badge&logo=latex&logoColor=fff" />
   </a>
 
 </div>
